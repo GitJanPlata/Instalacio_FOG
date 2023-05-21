@@ -12,7 +12,7 @@
     
 ## 1-Instal·lar i configurar un servidor FOG
 
-Ens baixarem el servei FOG del repositori oficial del projecte FOG:
+Per a començar ens baixarem el servei FOG del repositori oficial del projecte FOG:
 
 ![image](https://github.com/GitJanPlata/Instalacio_FOG/assets/96839905/11512a72-2ae3-473f-b488-ee7cf7075882)
 
