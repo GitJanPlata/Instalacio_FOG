@@ -113,7 +113,7 @@ El seguent pas serà descarregar i instal·lar el smartInstaller desde el client
 
 Crearem un script .bat que posteriorment afegirem al snapin i que executara l’instal·lador de chrome al client objectiu de forma automàtica:     
            
-           1- Instal·lar i configurar un servidor FOG
+           - El script es el seguent: msiexec /i "C:\Archivos de programa (x86)\FOG\tmp\nom_snapin\nom_executable_afegit"
 
 ![image](https://github.com/GitJanPlata/Instalacio_FOG/assets/96839905/65679d27-7d63-4b32-ab2f-90444f0f67ba)
 ![image](https://github.com/GitJanPlata/Instalacio_FOG/assets/96839905/0da7b96c-dca5-49ce-9bad-ba3530e6b821)
