@@ -7,9 +7,8 @@
   - [3-Instal·lar imatge Ubuntu](#3-installar-imatge-ubuntu)
   - [4-Capturar imatge des del client Windows(iso personalitzada)](#4-capturar-imatge-des-del-client-windowsiso-personalitzada)
   - [5-Instal·lar imatge Windows](#5-installar-imatge-windows)
-  - [6-Llençar un paquet per a que s’instal·li als clients fent servir snapin](6-llençar-un-paquet-per-a-que-sinstalli-als-clients-fent-servir-snapin)
+  - [6-Llençar un paquet per a que s’instal·li als clients fent servir snapin](#6-llençar-un-paquet-per-a-que-sinstalli-als-clients-fent-servir-snapin)
  
-    
 ## 1-Instal·lar i configurar un servidor FOG
 
 Per a començar ens baixarem el servei FOG del repositori oficial del projecte FOG:
